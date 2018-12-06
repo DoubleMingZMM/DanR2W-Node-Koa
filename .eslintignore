@@ -1,0 +1,3 @@
+client/src/assets
+client/dist/*.js
+node_modules/*.js
